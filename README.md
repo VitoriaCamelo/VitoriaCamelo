@@ -2,7 +2,7 @@
 <div style="display: inline_block">
   <p style="align:left">
     I am a developer and K-pop listener born in João Pessoa - Paraíba. I am also a college student in Computer Science at UFPB and a member of <a href="https://linktr.ee/petcomufpb">PET Computação</a>. In 2021, I graduated as a computer technician at IFPB Campus João Pessoa.
-I am currently searching for an internship.
+I am currently searching for an internship. My interests are Web Development and Data Analytics.
   </p>
   
   ### Technologies
@@ -18,6 +18,7 @@ I am currently searching for an internship.
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgresSQl](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+   <img src="https://public.flourish.studio/resources/images/logo.svg" alt="Flourish" width="95" height="28">
   
   <p>I have interest to study:</p> 
   
