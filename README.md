@@ -1,14 +1,17 @@
 ## Hi, I'm Vitória 👋
 <div style="display: inline_block">
   <p style="align:left">
-    I am a developer and K-pop listener born in João Pessoa - Paraíba. I am also a college student in Computer Science at UFPB and a member of <a href="https://linktr.ee/petcomufpb">PET Computação</a>. In 2021, I graduated as a computer technician at IFPB Campus João Pessoa.
-I am currently searching for an internship. My interests are Web Development and Data Analytics.
+    I am college student in Computer Science at UFPB and a member of <a href="https://linktr.ee/petcomufpb">PET Computação</a>. In 2021, I graduated as a computer technician at IFPB Campus João Pessoa.
+
+  I recently was an intern in the Analytical Models and Artificial Intelligence Division at the Social Security Technology and Information Company (Dataprev). I have experience in: data analysis and visualization, regression models, predictive analytics and natural language processing. 
   </p>
   
   ### Technologies
   <p>I have understanding about:</p>
-   
+
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -32,7 +35,7 @@ I am currently searching for an internship. My interests are Web Development and
   
   ### Tools and system 
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
